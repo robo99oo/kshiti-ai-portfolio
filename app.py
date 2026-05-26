@@ -438,7 +438,7 @@ elif section == "Projects":
     with p2:
 
         st.image(
-            "Images/ocr_architecture.png",
+            "Images/OCR_architecture.png",
             use_container_width=True
         )
 
@@ -463,7 +463,7 @@ elif section == "Projects":
     with p3:
 
         st.image(
-            "Images/bosch_architecture.png",
+            "Images/Bosch_architecture.png",
             use_container_width=True
         )
 
