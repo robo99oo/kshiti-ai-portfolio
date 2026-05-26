@@ -1,0 +1,93 @@
+KSHITI TYAGI
+kshiti392000@gmail.com | +91 9412830537 | Meerut, UP | linkedin.com/in/kshiti-tyagi
+PROFESSIONAL SUMMARY
+GenAI Engineer with 2+ years of production experience at Bosch building enterprise-grade AI solutions using
+RAG pipelines, LLMs, and AWS. Proven track record in reducing manual effort by 60% and improving model
+accuracy from 72% to 94%. Skilled in Agentic AI frameworks, LLM fine-tuning, MCP tool servers, and advanced
+prompt engineering. Currently building and deploying production AI systems targeting high-impact roles in GenAI
+and Data Analytics.
+EXPERIENCE
+Data Analyst & Software Engineer | Bosch Global Software Technologies | Oct 2023 – Oct 2025
+• Designed and deployed an enterprise GenAI CoPilot chatbot using Python, RAG pipelines, and AWS
+Bedrock, enabling intelligent document processing across 8+ manufacturing plants and reducing manual
+processing effort by ~60%.
+• Built RAG-based document intelligence pipelines using Python, TensorFlow, and LLM orchestration,
+improving data extraction accuracy from 72% to 94% and accelerating decision-making for plant managers
+and engineering teams.
+• Processed unstructured PDFs and complex documents (text, images, tables) using the Unstructured library;
+delivered via a Streamlit app integrated with Azure Data Lake for centralized storage and real-time
+document processing.
+• Built scalable LLM inference workflows with Amazon SageMaker enabling real-time analytics for 500+
+engineers.
+• Developed reusable Python automation scripts and standardized parsing frameworks across 8
+manufacturing plants, reducing operational errors by 45% and manual intervention significantly.
+• Partnered with global cross-functional stakeholders to refine chatbot workflows, incorporate user feedback,
+and ensure enterprise-level scalability and production-grade reliability.
+Self-Directed Learning & Freelance | Independent AI/ML Projects & Upskilling | Nov 2025 –
+Present
+• Developed an AI-Driven Agri-Intelligence Platform using geospatial ML for crop suitability and yield
+prediction with Amazon SageMaker and Milvus Vector Database.
+• Built OCR-Based Aadhaar Verification System automating extraction of identity details from Aadhaar card
+images using Tesseract OCR, OpenCV preprocessing, regex-based structured field parsing, and FastAPI
+backend.
+• Built Sales Intelligence Engine — end-to-end cloud-native ML pipeline for churn prediction and sales
+opportunity scoring using Snowflake, Python, and ETL workflows.
+• Deepened expertise in Agentic AI, LLM fine-tuning, and multi-modal GenAI architectures.
+Full-Stack Developer Intern | HighRadius | Jan 2022 – Apr 2022
+• Built AI-powered B2B invoice automation platform using Python, Flask, and ML models to streamline billing
+workflows.
+• Designed anomaly detection and classification models; reduced late payments by 30%.
+• Created executive dashboards with Tableau to surface real-time business insights for stakeholders.
+PROJECTS
+GenAI CoPilot for Bosch Plants | Python · TensorFlow · RAG · AWS Bedrock · Azure Data Lake · Streamlit
+• Designed and deployed an enterprise GenAI CoPilot chatbot to automate extraction of critical data from
+PDFs and structured documents, reducing manual processing effort by ~60% across multiple
+manufacturing plants.
+• Built RAG-based document intelligence pipelines with LLM orchestration enabling 94% data extraction
+accuracy and context-aware information retrieval at scale.
+• Integrated with Azure Data Lake and cloud-native data engineering pipelines for centralized storage,
+scalable ingestion, and real-time document processing.
+• Delivered the system through a Streamlit app; collaborated with global teams to ensure enterprise-level
+scalability and seamless integration.
+HR AI Hybrid Assistant | Python · LangChain · FAISS · HuggingFace · FastMCP · Streamlit
+Live: hr-ai-hybrid-assistant.streamlit.app | GitHub: github.com/robo99oo/hr-ai-hybrid-assistant
+• Designed and deployed a production-grade HR AI assistant using a hybrid routing architecture —
+intelligently routing queries across RAG retrieval, MCP tool execution, and hybrid mode in real time.
+• Built RAG pipeline using FAISS vector store and HuggingFace embeddings for instant HR policy retrieval
+with semantic search accuracy.
+• Implemented MCP tool server (FastMCP) for transactional actions including leave application, approval,
+and balance tracking — enabling the system to execute actions, not just answer questions.
+• Delivered ChatGPT-style UI with dark/light mode, employee login, leave balance tracker, and HR query log
+with CSV export; deployed on Streamlit Cloud with GitHub CI.
+OCR-Based Aadhaar Verification System | Python · FastAPI · OpenCV · Tesseract OCR · Regex
+• Built an OCR-based Aadhaar verification system to automate extraction of key identity details from Aadhaar
+card images using Computer Vision and FastAPI.
+• Implemented image preprocessing using OpenCV and text extraction using Tesseract OCR to improve
+accuracy on uploaded document images.
+• Developed regex-based parsing logic to extract structured fields (Aadhaar number, DOB, gender, PIN code)
+with Aadhaar masking for privacy; integrated Swagger API testing interface for real-world verification
+workflows.
+AI-Driven Agri-Intelligence Platform | Python · Amazon SageMaker · Milvus · Geospatial ML
+• Designed a geospatial ML solution for crop suitability and yield prediction across diverse landscapes.
+• Built geospatial pipelines and trained models using Amazon SageMaker and Python; integrated Milvus
+Vector Database for spatial feature retrieval and field-level recommendations.
+Sales Intelligence Engine | Python · Snowflake · ETL · ML
+• Built a unified predictive analytics platform for churn prediction and sales opportunity scoring for commercial
+teams.
+• Implemented ETL workflows, feature engineering, and model orchestration using Snowflake and Python;
+enabled model explainability, monitoring, and automated scoring across pipelines.
+SKILLS
+AI/ML: LLMs, GPT-4, Llama 3, RAG Architecture, Agentic AI, MCP Tool Servers, NLP, Deep Learning
+(TensorFlow, PyTorch), Prompt Engineering, LLM Fine-Tuning
+Programming: Python, SQL
+Cloud & MLOps: AWS Bedrock, Amazon SageMaker, Azure ML Studio, GCP, Docker, Kubernetes
+Data & Databases: Snowflake, FAISS, Milvus, Pinecone, Azure Data Lake, ETL Pipelines
+APIs & Tools: FastAPI, FastMCP, LangChain, Streamlit, OpenCV, Tesseract OCR, Git, Power BI, Tableau
+EDUCATION
+B.Tech in Computer Science | SRM University | 2023 | GPA: 8.64 / 10
+KEY ACHIEVEMENTS
+• Improved data extraction accuracy from 72% to 94%, strengthening reporting reliability at Bosch.
+• Reduced manual processing by 60% via standardized GenAI workflows and process automation.
+• Standardized Python automation across 8 manufacturing plants, cutting operational errors by 45%.
+• Deployed live GenAI product (HR AI Hybrid Assistant) — publicly accessible on Streamlit Cloud with full
+RAG + MCP architecture.
