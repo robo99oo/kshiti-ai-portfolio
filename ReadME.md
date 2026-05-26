@@ -5,7 +5,7 @@ AI-powered recruiter portfolio showcasing GenAI systems, RAG pipelines, MCP work
 🌐 Live Demo
 
 🚀 Live Portfolio:
-Kshiti AI Portfolio Live App
+https://robo99oo-ai.streamlit.app/
 
 👩‍💻 About The Project
 
@@ -129,7 +129,7 @@ pip install -r requirements.txt
 
 Run the project:
 
-streamlit run app.py
+streamlit run app.py 
 ☁️ Deployment
 
 This project is deployment-ready using:
